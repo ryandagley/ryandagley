@@ -2,6 +2,7 @@
 - 👀 I’m interested in building cool solutions on AWS.
 - Welcome to my codes.
 - Currently on days 1-10 of #100daysofcode
+- working on a check-in streak.
 
 Things I'm studying this week:
 1. Python
