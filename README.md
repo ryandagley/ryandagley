@@ -6,10 +6,7 @@
 
 Things I'm studying this week:
 1. Python
-2. SQL
-3. Building on AWS
-4. What is GitHub projects?
-5. YAML
+2. Working with the OpenAI API
 
 <!---
 ryandagley/ryandagley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
