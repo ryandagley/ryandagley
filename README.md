@@ -15,3 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 - Day 1: Wrote an OpenAI API connector.
 - Day 2: Wrote an outline for OpenAI text summarization script.  Added some SQL for writing a table with dummy data.
+- Day 3: I learned to write an AWS Lambda function that checks for S3 objects older than 7 days and e-mails me a list.  I was specifically curious to learn how to use S3 objects with s3.list_objects_v2.
