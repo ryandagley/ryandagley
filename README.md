@@ -17,3 +17,4 @@ You can click the Preview link to take a look at your changes.
 - Day 2: Wrote an outline for OpenAI text summarization script.  Added some SQL for writing a table with dummy data.
 - Day 3: I learned to write an AWS Lambda function that checks for S3 objects older than 7 days and e-mails me a list.  I was specifically curious to learn how to use S3 objects with s3.list_objects_v2.
 - Day 4: I learned to deploy Day 3's Lambda function to AWS via CDK (not pushed).  This required guidance of a seasoned engineer who taught me how to structure my applications to use environment variables.
+- Day 5: Continued focus on using environment variables with a Python CDK application.  I'm also having general difficulty with my Docker installation so will continue another day without pushing changes.  I'm gathering some questions to ask my engineering mentors when I see them this week.
