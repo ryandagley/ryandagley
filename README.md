@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @ryandagley
 - 👀 I’m interested in building cool solutions on AWS.
+- I write a ton of SQL at work and I'm looking to expand my knowledge.
 - Welcome to my codes.
-- Currently on days 1-10 of #100daysofcode (without the social media parts)
-- working on a commit streak.
+- Challenging myself to Commit 100 days in a row (some code, some other exploration).
 
 Things I'm studying this week:
-1. Python
+1. Python CDK
 2. Working with the OpenAI API
-
+   
 <!---
 ryandagley/ryandagley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
