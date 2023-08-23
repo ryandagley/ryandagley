@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryandagley)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 👋 Hi, I’m @ryandagley
 - 👀 I’m interested in building cool solutions on AWS.
 - I write a ton of SQL at work and I'm looking to expand my knowledge.
