@@ -24,4 +24,5 @@ You can click the Preview link to take a look at your changes.
 - Day 8: Looking back on the past week, I'm realizing that I'm all over the place.  I think this is reflective of how things go at work.  I will benefit from planning out projects a bit more.  I've pushed a project proposal to my portfolio project to guide my next steps.
 - Day 9: I just added a Github Stats widget and I'm graded with a C!  I've written some project plans for my portfolio project.
 - Day 10: I'm planning the architecture for my portfolio project and leaning toward next.js.  I'm also writing some tests in python to test my SQL queries at work.
-- Day 11 / Aug 25 2023: I've decided on my front and backend technologies for the portfolio site. Using next.js and tailwind, I've started to build the front-end.   
+- Day 11 / Aug 25 2023: I've decided on my front and backend technologies for the portfolio site. Using next.js and tailwind, I've started to build the front-end.
+- Day 12: I've learned to add a second component to my next.js front end.  It's as simple as importing the page from another folder.  Next is pleasantly easy to work with for what I'm building.
