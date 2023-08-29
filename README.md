@@ -6,8 +6,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ryandagley)](https://git.io/streak-stats)
 
 Things I'm studying this week:
-1. Python CDK
-2. Planning out my projects
+1. Next.js
+2. CDK
    
 <!---
 ryandagley/ryandagley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
