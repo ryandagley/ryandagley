@@ -40,3 +40,4 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 * Day 15: Learned to build collapse and navigate functionality on my website's mobile menu.  This is coming along well!  I had a long commute today so I watched a few tutorials on using CDK to deploy a CI/CD pipeline for S3 hosted static websites.
+* Day 16: Added a page specific to my Mycologeek project in the portfolio website.  I'm quickly learning that I don't really have many projects to showcase outside of work.
