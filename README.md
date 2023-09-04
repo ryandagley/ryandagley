@@ -1,20 +1,20 @@
 - 👋 Hi, I’m @ryandagley
-- 👀 I’m interested in building cool solutions on AWS.
+- 👀 I’m interested in building cool solutions on AWS and working with AI.
 - I write a ton of SQL at work and I'm looking to expand my knowledge.
 - Welcome to my codes.
 - Challenging myself to Commit 100 days in a row (some code, some other exploration).
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ryandagley)](https://git.io/streak-stats)
 
 Things I'm studying this week:
-1. Next.js
-2. CDK
+1. CDK
+2. Headless Wordpress
    
 <!---
 ryandagley/ryandagley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <details>
-   <summary>Days 1-7 of 100</summary>
+   <summary> <strong> Week 1: </strong> Days 1-7 of 100</summary>
    
 * Day 1: Wrote an OpenAI API connector.
 * Day 2: Wrote an outline for OpenAI text summarization script.  Added some SQL for writing a table with dummy data.
@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 <details>
-   <summary> Days 8-14 of 100</summary>
+   <summary> <strong> Week2: </strong> Days 8-14 of 100</summary>
    
 * Day 8: Looking back on the past week, I'm realizing that I'm all over the place.  I think this is reflective of how things go at work.  I will benefit from planning out projects a bit more.  I've pushed a project proposal to my portfolio project to guide my next steps.
 * Day 9: I just added a Github Stats widget and I'm graded with a C!  I've written some project plans for my portfolio project.
