@@ -39,6 +39,9 @@ You can click the Preview link to take a look at your changes.
 
 </details>
 
+<details>
+   <summary> <strong> Week3: </strong> Days 15-21 of 100</summary>
+
 * Day 15: Learned to build collapse and navigate functionality on my website's mobile menu.  This is coming along well!  I had a long commute today so I watched a few tutorials on using CDK to deploy a CI/CD pipeline for S3 hosted static websites.
 * Day 16: Added a page specific to my Mycologeek project in the portfolio website.  I'm quickly learning that I don't really have many projects to showcase outside of work.
 * Day 17: I learned a bit more about passing variables from the CDK context throughout the app.  One instance was passing a cron dictionary.  On my website, I built some buttons and made some progress on the CDK.  I'm using Typescript which is new for me.
@@ -46,3 +49,7 @@ You can click the Preview link to take a look at your changes.
 * Day 19: Big day ahead of me outside of code so I snuck in some quick updates.  I'm learning to pay attention to responsive design - it has become a bit of a habit to make sure my project will show up well on mobile devices.  That's good because responsive design is what I have scheduled for the next 3 days of commits!  I've also been doing some reading on Headless Wordpress as a potential solution to adding a blog.  
 * Day 20:  More work on the CDK.  I learned how to use Codestar to connect Github to CodePipeline.
 * Day 21:  I hear it takes 21 days to create a new habit and here I am!  What a good Day 21 it has been.  I've just completed build the CDK for my portfolio website.  It creates a CICD pipeline and an S3 bucket.  I am running into a deployment failure however, but I'm going to call this a WIN!!!  The deployment failure appears to be some account-level restriction I have on CodeBuild.  I really wanted to see my site deployed to S3, but I'll have to practice patience.  In the meantime, I'll dive further into understanding headless wordpress or other blogging options. - Late update for Day 21: I've been diving into some tutorials using Apollo/GraphQL with Wordpress.
+
+</details>
+
+* Day 22: Added a resume component to the portfolio website, but I'm still waiting on AWS to increase my CodeBuild service limit.  Not sure why it's at 0.  I followed a great tutorial last night about headless wordpress with next.js, but it has be rethinking my architecture.  Should I build a blog as a separate app or not?  
