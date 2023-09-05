@@ -52,4 +52,4 @@ You can click the Preview link to take a look at your changes.
 
 </details>
 
-* Day 22: Added a resume component to the portfolio website, but I'm still waiting on AWS to increase my CodeBuild service limit.  Not sure why it's at 0.  I followed a great tutorial last night about headless wordpress with next.js, but it has be rethinking my architecture.  Should I build a blog as a separate app or not?  
+* Day 22: Added a resume component to the portfolio website, but I'm still waiting on AWS to increase my CodeBuild service limit.  Not sure why it's at 0.  I followed a great tutorial last night about headless wordpress with next.js, but it has be rethinking my architecture.  Should I build a blog as a separate app or not?  While waiting on AWS, I decided to use Amplify instead and that takes care of my basic use-case here.  The website does load, but for some reason, the images don't.    
