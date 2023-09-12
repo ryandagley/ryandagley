@@ -52,6 +52,9 @@ You can click the Preview link to take a look at your changes.
 
 </details>
 
+<details>
+   <summary> <strong> Week4: </strong> Days 22-28 of 100</summary>
+   
 * Day 22: Added a resume component to the portfolio website, but I'm still waiting on AWS to increase my CodeBuild service limit.  Not sure why it's at 0.  I followed a great tutorial last night about headless wordpress with next.js, but it has be rethinking my architecture.  Should I build a blog as a separate app or not?  While waiting on AWS, I decided to use Amplify instead and that takes care of my basic use-case here.  The website does load, but for some reason, the images don't.
 * Day 23: It has been a busy day at work, but got a little bit of work done during lunch today.  In messing around with the Amplify console, I've now got one github repo deploying to my main domain for the portfolio site and the blog repo writing to a subdomain.  I've learned a lot of ways it won't work and this is the first way that it has.  I may want to revisit this later, but for now I am satisfied.
 * Day 24:  I'm getting into the weeds on my blog's amplify deployment.  Everything builds fine locally, but when pushing to Amplify, my environment variables can't be defined.  I've tried a few different ways now and same failure each time.  I'm glad I got ahead of schedule on this because this is a tricky one!
@@ -59,3 +62,7 @@ You can click the Preview link to take a look at your changes.
 * Day 26: I quickly put together an image gallery website following an HTML/CSS tutorial.  I have today and tomorrow to finish up my project showcase pages on the portfolio site before focusing on fixing the blog.  I also have another fun project idea in the works, but don't want to commit too much time to it until I've made sufficient progress on my existing projects.
 * Day 27: I built a new Next.js website, mostly from scratch!  Today I learned that capitlization in filenames is not only important, but requires specific handling in Git in order to update the name in the repo.  I spent a lot of time chasing down a problem in my code, when it was a problem of capitlization!  I have a migraine today so even though I'm excited to work on my projects, I probably need to rest up.  I'll be a day behind on finishing touches for my portfolio's project section.
 * Day 28: Feeling under the weather today so making a small edit to my Nihonga page, making it less political.  And that might wrap up week 4!  Felt better in the evening so made significant updates to AI Nihonga page.  Learned a lot about CSS today in trying to make the site look how I want it to.
+
+</details>
+
+* Day 29: 4 weeks complete!  Starting the day off with a small spelling correction before my commute.  Saw that my new site looks odd on Firestick's Prime Silk Browser.  I'm wondering if that's even worth exploring in the responsive space.
