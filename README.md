@@ -66,3 +66,4 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 * Day 29: 4 weeks complete!  Starting the day off with a small spelling correction before my commute.  Saw that my new site looks odd on Firestick's Prime Silk Browser.  I'm wondering if that's even worth exploring in the responsive space.  UPDATE: it turns out it wasn't just the silk browser and I've had a lot to learn about responsive design.  I think I've fixed it for the most part, but I'm going to call my Nihonga site a good start and not a finished product.
+* Day 30:  Wow!  30 days challenge complete!  That feels good!  However, my latest coding project is not going well.  Everything is fine locally, but once deployed via Amplify, I get errors and 500s.  I guess I'll have a lot to learn in troubleshooting this.  Perhaps my first rollback.  We'll see.  
