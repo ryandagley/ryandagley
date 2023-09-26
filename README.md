@@ -65,6 +65,9 @@ You can click the Preview link to take a look at your changes.
 
 </details>
 
+<details>
+   <summary> <strong> Week5: </strong> Days 29-35 of 100</summary>
+
 * Day 29: 4 weeks complete!  Starting the day off with a small spelling correction before my commute.  Saw that my new site looks odd on Firestick's Prime Silk Browser.  I'm wondering if that's even worth exploring in the responsive space.  UPDATE: it turns out it wasn't just the silk browser and I've had a lot to learn about responsive design.  I think I've fixed it for the most part, but I'm going to call my Nihonga site a good start and not a finished product.
 * Day 30:  Wow!  30 days challenge complete!  That feels good!  However, my latest coding project is not going well.  Everything is fine locally, but once deployed via Amplify, I get errors and 500s.  I guess I'll have a lot to learn in troubleshooting this.  Perhaps my first rollback.  We'll see.  
 * Day 31: After many attempts, it's time to suck it up and rollback my commits.  UPDATE:  I've rolled back everything to even the first build.  I've even created a new Amplify app with an earlier working build.  Something has gone wrong and I'm thinking of starting from scratch.  I deployed a minor update to my software portfolio site just for a quick sanity check and I'm thankful that didn't fail either.  So far, this has been the most challenging day of my 100 day challenge.  My vacation from work starts tomorrow so I think I'll go enjoy my night.
@@ -72,6 +75,9 @@ You can click the Preview link to take a look at your changes.
 * Day 33: Fixed some styling issues throughout my Nihonga site and sent it to my sister and brother-in-law.  Let's call that "acceptance testing."  They thought it looked pretty good.  I'm putting my new and cautious testing/deployment method into practice.  I'm not thinking of using some type of content delivery technology since I don't think it makes sense to keep coding in new images.
 * Day 34: A quick and simple edit this morning to AI Nihonga to add an image.  I was up last night in bed reading about Stable Diffusion so I'm installing a local version now to see how capable my home machine is.  I'm interested in training my own models!
 * Day 35: Another quick addition to my Nihonga site.  I got Stable Diffusion to run locally on my computer and today I loaded my first image using that.  I learned some Inpainting and a few things about writing prompts.
+
+</details>
+  
 * Day 36:  September 19th.  I started on August 15th and I feel that I've really developed myself in this time.  This morning I made another addition to the Nihonga site and I'm exploring prompts for AI generation a bit more.  Today, I'm meeting with my nephew (high school senior) to discuss potential careers.  I'm taking a little trip tomorrow so I'm going to learn how to make a commit from my phone as to not break my awesome streak!
 * Day 37: Made an update using my phone today!  I just made a direct change to github.  I did not enjoy the experience, but I don't have a good laptop to take with me.  It seems good time to budget for one.
 * Day 38: Quick bug fix this morning.  Still working from my phone.  Im going to learn about extending images using Stable Diffusion today.
