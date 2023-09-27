@@ -6,8 +6,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ryandagley)](https://git.io/streak-stats)
 
 Things I'm studying this week:
-1. CDK
-2. Headless Wordpress
+1. Stable Diffusion
+2. AWS Amplify
    
 <!---
 ryandagley/ryandagley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -77,7 +77,10 @@ You can click the Preview link to take a look at your changes.
 * Day 35: Another quick addition to my Nihonga site.  I got Stable Diffusion to run locally on my computer and today I loaded my first image using that.  I learned some Inpainting and a few things about writing prompts.
 
 </details>
-  
+
+<details>
+   <summary> <strong> Week5: </strong> Days 36-42 of 100</summary>
+   
 * Day 36:  September 19th.  I started on August 15th and I feel that I've really developed myself in this time.  This morning I made another addition to the Nihonga site and I'm exploring prompts for AI generation a bit more.  Today, I'm meeting with my nephew (high school senior) to discuss potential careers.  I'm taking a little trip tomorrow so I'm going to learn how to make a commit from my phone as to not break my awesome streak!
 * Day 37: Made an update using my phone today!  I just made a direct change to github.  I did not enjoy the experience, but I don't have a good laptop to take with me.  It seems good time to budget for one.
 * Day 38: Quick bug fix this morning.  Still working from my phone.  Im going to learn about extending images using Stable Diffusion today.
@@ -85,4 +88,8 @@ You can click the Preview link to take a look at your changes.
 * Day 40: 9/23 It seems that I had some bad routing in my code and the portfolio website also gives 500s.  This is exactly what happened with the Nihonga site before.  I had to deploy everything from scratch in a new Amplify app to fix it last time.  I hope I don't have to do that again.  I believe this is a problem with Amplify over my code.
 * Day 41: 9/24 Tried a few corrections to make the portfolio website work.  It didn't.  I assume I'll need to rebuild the whole thing again here soon, but not today.  I think I'll start searching for a new framework that works well with amplify since I don't think NextJS is it.
 * Day 42: 9/25 Today's focus was on understanding LoRAs in Stable Diffusion.  Didn't work on code outside of work today, just prompts.  UPDATE: Downgrading my websites Next version appears to have fixed my issue for now.  Amplify seems to be an all around difficult product to use for hosting NextJS sites as this is the second time I've dealt with this issue in a month.
+
+</details>
+
 * Day 43: 9/26 With 14 weeks left in the year, I find myself wanting to take some projects past the finish line.  I also feel the need to revisit my goals as an engineer.  There are clearly some types of projects I enjoy working on, and other projects that I don't.  I should pay more attention to that.  UPDATE: "Drudge through the drudgery."  I came home from work and created a ton of open Issues for my projects.  I then decided to start tackling them!  Tonight I learned how to build an e-mail button that obfuscates my email address to the Amplify environment variables.  This allows people to contact me, but cuts down on the bot spam (I hope!).  UPDATE 2:  Resolved some issues, but opened up many more.  Today has seen more contributions than any other day so far.  Done for the evening feeling satisfied in what I've accomplished.
+* Day 44: 9/27 Looking back on my projects so far, I need to start leaning into the back-end, but having too much fun building front ends.  I'll start working on making my Portfolio's contact form functional.  I'm thinking Lambda, SES, and CAPTCHA will be included.
