@@ -79,7 +79,7 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 <details>
-   <summary> <strong> Week5: </strong> Days 36-42 of 100</summary>
+   <summary> <strong> Week6: </strong> Days 36-42 of 100</summary>
    
 * Day 36:  September 19th.  I started on August 15th and I feel that I've really developed myself in this time.  This morning I made another addition to the Nihonga site and I'm exploring prompts for AI generation a bit more.  Today, I'm meeting with my nephew (high school senior) to discuss potential careers.  I'm taking a little trip tomorrow so I'm going to learn how to make a commit from my phone as to not break my awesome streak!
 * Day 37: Made an update using my phone today!  I just made a direct change to github.  I did not enjoy the experience, but I don't have a good laptop to take with me.  It seems good time to budget for one.
