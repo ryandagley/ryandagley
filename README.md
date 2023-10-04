@@ -7,7 +7,7 @@
 
 Things I'm studying this week:
 1. Stable Diffusion
-2. AWS Amplify
+2. Wordpress
    
 <!---
 ryandagley/ryandagley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -91,6 +91,9 @@ You can click the Preview link to take a look at your changes.
 
 </details>
 
+<details>
+   <summary> <strong> Week7: </strong> Days 43-49 of 100</summary>
+
 * Day 43: 9/26 With 14 weeks left in the year, I find myself wanting to take some projects past the finish line.  I also feel the need to revisit my goals as an engineer.  There are clearly some types of projects I enjoy working on, and other projects that I don't.  I should pay more attention to that.  UPDATE: "Drudge through the drudgery."  I came home from work and created a ton of open Issues for my projects.  I then decided to start tackling them!  Tonight I learned how to build an e-mail button that obfuscates my email address to the Amplify environment variables.  This allows people to contact me, but cuts down on the bot spam (I hope!).  UPDATE 2:  Resolved some issues, but opened up many more.  Today has seen more contributions than any other day so far.  Done for the evening feeling satisfied in what I've accomplished.
 * Day 44: 9/27 Looking back on my projects so far, I need to start leaning into the back-end, but having too much fun building front ends.  I'll start working on making my Portfolio's contact form functional.  I'm thinking Lambda, SES, and CAPTCHA will be included.
 * Day 45: 9/28 Today is going to be a bit more visually focused.  I'm not thrilled with the images and logos I'm using across multiple projects.  I think I'll spend some time in Stable Diffusion and Canva tonight to add a bit more flavor to my websites.  My focus at work today was a bit more DevOps and SQL heavy.  I think I'll have a snippet of code to add to my SQL repo when I get home.
@@ -98,3 +101,7 @@ You can click the Preview link to take a look at your changes.
 * Day 47: 9/30 Today's focus was on making my web portfolio feel more complete.  I've finally got some logos that I feel better about and added some functionality with responsive design in mind.  My coworker the other day pointed out that my main focus on these sites appear to be web design over front-end engineering so that's got me thinking about some projects (also gave me a little bit of imposter syndrome, but that's ok).  I've got a wedding to go to!  I'll have to deal with all that at another time.  UPDATE: I've transferred over my namesake DNS - my old provider still tried to bill me an additional $100.  Their excessive billing is a main reason for why I'm headed to AWS with my projects.  Also, as far as milestones go, this is my first full calendar month of commits!  My next milestone is in 2 days, the halfway mark.
 * Day 48:  I've knocked out a ton of open issues on my web portfolio.  I feel like the site is started to capture more of what I want to present.  I'm looking forward to getting to the point where my focus shifts over to the smaller projects that the portfolio is meant to showcase!  
 * Day 49:  I've got a touch of the Covid, but spent a little bit of time figuring out some problems with Lightsail.  I learned to apply HTTPS to my wordpress instance, but I still have not been able to figure out why images don't load in my blog posts.  It's a tricky one!
+
+</details>
+ 
+* Day 50: 10/3 Still ill.  I've decided to build a workaround to my headless wordpress issue in the meantime by making sure that my blog looks good as a standalone wordpress instance.  https://dagleyblog.com is now live.  Anyway!  Day 50!  I'm halfway to my goal.  This is really excellent.  I feel like I've learned a lot on the way, but I'm also uncovering how much I don't know.  In this second half of the streak, I'll need to fix my bugs and I plan to get Mycologeek going again starting with a new deployment plan.
