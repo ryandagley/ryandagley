@@ -103,7 +103,9 @@ You can click the Preview link to take a look at your changes.
 * Day 49:  I've got a touch of the Covid, but spent a little bit of time figuring out some problems with Lightsail.  I learned to apply HTTPS to my wordpress instance, but I still have not been able to figure out why images don't load in my blog posts.  It's a tricky one!
 
 </details>
- 
+
+<details>
+   <summary> <strong> Week8: </strong> Days 50-56 of 100</summary>
 * Day 50: 10/3 Still ill.  I've decided to build a workaround to my headless wordpress issue in the meantime by making sure that my blog looks good as a standalone wordpress instance.  https://dagleyblog.com is now live.  Anyway!  Day 50!  I'm halfway to my goal.  This is really excellent.  I feel like I've learned a lot on the way, but I'm also uncovering how much I don't know.  In this second half of the streak, I'll need to fix my bugs and I plan to get Mycologeek going again starting with a new deployment plan.
 * Day 51: 10/4 As a matter of practice, I used Amazon Lightsail and Route 53 today to route a new wordpress blog to a HTTPS DNS.  This involves updating namespaces, grabbing a static IP, and finally setting up HTTPS in Bitnami.  At work, I wrestled with some SQL - in SQL, I use "HAVING" far less frequently than just about anything else.  However, "HAVING" was a big reason for why I didn't pass an interview many years ago.  Now that the work day is wrapping up, I wonder what I'll get into tonight.
 * Day 52: 10/5 - Did a bit of lunchtime coding.  I've been using AI to generate images that are in grids of 4.  I was splitting these manually and wasting time so I learned to build a tool to split them using Python and the Pillow library.  It's in my image-tools repo.  I forgot to update last night, but started using Github Actions to try to deploy to Elastic Beanstalk for Mycologeek.  I'm running into problems, but I'll get there.  I'll probably put it down until the weekend though.
@@ -111,3 +113,7 @@ You can click the Preview link to take a look at your changes.
 * Day 54: 10/7 - I've got a big day ahead of me so only a small code change today.  I'll be out in the world searching for mushrooms and inspiration for my projects (I can't let AI do everything!).  UPDATE: In the image splitting tool I had a hard time seeing the images I was working with so made a percentage based thumbnail.
 * Day 55: 10/8 - Another small change (bug fixes) so far today as I've made myself more busy than intended.  While I feel a little bit of guilt about it, if this is streak is going to work, then anything has to count!  I typically come back later anyway once I have more time in my day.
 * Day 56: 10/9 and closing out Week 8!  Had a tough time figuring out how to correct highlight a selected imagine in my python image splitter app.  I realized that I kept trying to highlight a thumbnail image before it was resized.  
+
+</details>
+
+* Day 57: 10/10 - Made my image splitting app a little more user-friendly with a multi-select and deselect handling.  It's interesting to me that everything needs to be accounted for in building this.  From selecting images to adding a scrollbar, nothing is just done for me.  I'm there's a library that handles that, but doing it the harder way gets me thinking.  That said, this afternoon I'm dealing with a spot of imposter syndrome again.  I wonder what it is.  Who is expecting me to have made more progress?  I think that's something to explore.
