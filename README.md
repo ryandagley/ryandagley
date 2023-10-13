@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryandagley
 - 👀 I’m interested in building cool solutions on AWS and working with AI.
-- I write a ton of SQL at work and I'm looking to expand my knowledge.
+- I write a ton of SQL at work and I'm looking to expand my knowledge.  
 - Welcome to my codes.
 - Challenging myself to Commit 100 days in a row (some code, some other exploration).
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ryandagley)](https://git.io/streak-stats)
@@ -119,3 +119,4 @@ You can click the Preview link to take a look at your changes.
 * Day 57: 10/10 - Made my image splitting app a little more user-friendly with a multi-select and deselect handling.  It's interesting to me that everything needs to be accounted for in building this.  From selecting images to adding a scrollbar, nothing is just done for me.  I'm there's a library that handles that, but doing it the harder way gets me thinking.  That said, this afternoon I'm dealing with a spot of imposter syndrome again.  I wonder what it is.  Who is expecting me to have made more progress?  I think that's something to explore.
 * Day 58: 10/11 - Added a Deselect Function to the Image Splitting app.  I thought it would be a matter of resetting the entire app, but learned that it made more sense to just clear the list of selected images and delete the highlights.  I've taken this app further than I had really planned to.
 * Day 59: 10/12 - I wanted to try something new today so I came home and put together a quick python application for training me on learning the notes on the guitar neck quickly.  The application gives a Note, then gives a few seconds before showing multiple locations of that note.  I think I'll expand on this.
+* Day 60: 10/13 - I can't believe we're at 60 days already!  2 months of daily commits!  Today I learned a little bit more about Tkinter and blocking functions.  In my Guitar Neck Training application, I wanted to start showing the Notes/Answers in a GUI instead of the terminal.  Everything was looking good, but I couldn't move the window around which was annoying.  I learned about Tkinter's "after" which allowed me to move it around.  I like this so far, but I'll have to go and add more positions to the fingerboard mapping.  I'm also thinking of adding some features to allow selective string training too.  It's Friday the 13th in October!  Be safe out there!
