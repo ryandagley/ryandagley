@@ -6,7 +6,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ryandagley)](https://git.io/streak-stats)
 
 Things I'm studying this week:
-1. Stable Diffusion
+1. Tkinter
 2. Wordpress
    
 <!---
@@ -121,4 +121,5 @@ You can click the Preview link to take a look at your changes.
 * Day 59: 10/12 - I wanted to try something new today so I came home and put together a quick python application for training me on learning the notes on the guitar neck quickly.  The application gives a Note, then gives a few seconds before showing multiple locations of that note.  I think I'll expand on this.
 * Day 60: 10/13 - I can't believe we're at 60 days already!  2 months of daily commits!  Today I learned a little bit more about Tkinter and blocking functions.  In my Guitar Neck Training application, I wanted to start showing the Notes/Answers in a GUI instead of the terminal.  Everything was looking good, but I couldn't move the window around which was annoying.  I learned about Tkinter's "after" which allowed me to move it around.  I like this so far, but I'll have to go and add more positions to the fingerboard mapping.  I'm also thinking of adding some features to allow selective string training too.  It's Friday the 13th in October!  Be safe out there!
 * Day 61: 10/14 - I was excited to test out my guitar neck training app and found that I had entered a ton of incorrect mappings!  Shows how that I probably need to do a bit more testing before pushing.
-* Day 62: 10/15 - Continued with a few more updates to the mapping.  I'm thinking of abstracting the note_mapping away from the main application for better organization. 
+* Day 62: 10/15 - Continued with a few more updates to the mapping.  I'm thinking of abstracting the note_mapping away from the main application for better organization.
+* Day 63: 10/16 - I moved the notes of the guitar neck trainer into its own file.  I also corrected an inconsistency in note sizing.  I'm having a challenging time pausing on just the Note part of the app, but it otherwise seems to work on the response.  I can live with it for now - I am using it in my guitar practice!  And so far, that's a wrap for Week 9!  6 weeks to goal!
