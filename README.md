@@ -116,6 +116,8 @@ You can click the Preview link to take a look at your changes.
 
 </details>
 
+<details>
+   <summary> <strong> Week9: </strong> Days 57-63 of 100</summary>
 * Day 57: 10/10 - Made my image splitting app a little more user-friendly with a multi-select and deselect handling.  It's interesting to me that everything needs to be accounted for in building this.  From selecting images to adding a scrollbar, nothing is just done for me.  I'm there's a library that handles that, but doing it the harder way gets me thinking.  That said, this afternoon I'm dealing with a spot of imposter syndrome again.  I wonder what it is.  Who is expecting me to have made more progress?  I think that's something to explore.
 * Day 58: 10/11 - Added a Deselect Function to the Image Splitting app.  I thought it would be a matter of resetting the entire app, but learned that it made more sense to just clear the list of selected images and delete the highlights.  I've taken this app further than I had really planned to.
 * Day 59: 10/12 - I wanted to try something new today so I came home and put together a quick python application for training me on learning the notes on the guitar neck quickly.  The application gives a Note, then gives a few seconds before showing multiple locations of that note.  I think I'll expand on this.
@@ -123,4 +125,7 @@ You can click the Preview link to take a look at your changes.
 * Day 61: 10/14 - I was excited to test out my guitar neck training app and found that I had entered a ton of incorrect mappings!  Shows how that I probably need to do a bit more testing before pushing.
 * Day 62: 10/15 - Continued with a few more updates to the mapping.  I'm thinking of abstracting the note_mapping away from the main application for better organization.
 * Day 63: 10/16 - I moved the notes of the guitar neck trainer into its own file.  I also corrected an inconsistency in note sizing.  I'm having a challenging time pausing on just the Note part of the app, but it otherwise seems to work on the response.  I can live with it for now - I am using it in my guitar practice!  And so far, that's a wrap for Week 9!  6 weeks to goal!
+
+</details>
+   
 * Day 64: 10/17 - I don't have a lot of patience for working on my application today so I quickly created cancel functionality for the guitar app.  I couldn't figure out why tk destroy wasn't the right way to go, but used window.quit() instead and it worked fine.  I explored some options for if I wanted to host this app on AWS.  I'm considering a container on Fargate.
