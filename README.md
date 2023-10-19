@@ -129,3 +129,4 @@ You can click the Preview link to take a look at your changes.
 </details>
    
 * Day 64: 10/17 - I don't have a lot of patience for working on my application today so I quickly created cancel functionality for the guitar app.  I couldn't figure out why tk destroy wasn't the right way to go, but used window.quit() instead and it worked fine.  I explored some options for if I wanted to host this app on AWS.  I'm considering a container on Fargate.
+* Day 65: 10/18 - I created a Dark Mode toggle for the guitar app.  It was a bit frustraing knowing to set the background color of the label and the window.  I fell down some highlight text rabbit hole, but the solution was just to configure the background for both the window and the label.  My boss asked about my interest in becoming an SDE today.
