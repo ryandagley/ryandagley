@@ -127,7 +127,9 @@ You can click the Preview link to take a look at your changes.
 * Day 63: 10/16 - I moved the notes of the guitar neck trainer into its own file.  I also corrected an inconsistency in note sizing.  I'm having a challenging time pausing on just the Note part of the app, but it otherwise seems to work on the response.  I can live with it for now - I am using it in my guitar practice!  And so far, that's a wrap for Week 9!  6 weeks to goal!
 
 </details>
-   
+
+<details>
+   <summary><strong> Week 10: </strong> Days 64-70 of 100</summary>
 * Day 64: 10/17 - I don't have a lot of patience for working on my application today so I quickly created cancel functionality for the guitar app.  I couldn't figure out why tk destroy wasn't the right way to go, but used window.quit() instead and it worked fine.  I explored some options for if I wanted to host this app on AWS.  I'm considering a container on Fargate.
 * Day 65: 10/18 - I created a Dark Mode toggle for the guitar app.  It was a bit frustraing knowing to set the background color of the label and the window.  I fell down some highlight text rabbit hole, but the solution was just to configure the background for both the window and the label.  My boss asked about my interest in becoming an SDE today.
 * Day 66: 10/19 - I supposed sometime between today and tomorrow, I'm 2/3 to my goal of 100 consistent days!  Today at work, I'm diving deep into the world of AWS Step Functions.  Unfortunately, I'm not build anything, but I'm running tests that consist of many state machines in sequence.  I'll probably be doing a lot more of this in the short-term.
@@ -135,4 +137,8 @@ You can click the Preview link to take a look at your changes.
 * Day 68: 10/21 I only have time for a quick update today.  I learned about Tkinter's simpledialog which is a module that provide an easy way to display messages and have the user submit input.  I add an input to limit how many rounds a user want to be tested on the guitar training app.  I've introduced a small counting issue by doing that, but I'll address that next.
 * Day 69: 10/22 On the guitar app, addressed the counting issue and I'm working on refactoring and moved the stop_app function to its own module.  I was stumbling on this as I was forgetting to import Tkinter into the new module and the errors I got were completely ambiguous.  Busy day ahead of me, but maybe I'll find time to revisit today.
 * Day 70: 10/23 I needed a password protection script for Windows since my options to do so were grayed out so I wrote one up using a 7zip library.  It's a bit on-the-nose, but it does its job.  I think that'll wrap up week 10!
+
+</details>
+   
 * Day 71: 10/24 I wrote a quick python script to take a copy/pasted CSV result from Datagrip and converts it to a markdown table.  I was creating this manually at work and decided it was time to automate it.
+* Day 72: 10/25 I used the above script for work and realized that ID numbers were also getting commas so I updated it.  I was challenged on the purpose of this script by an engineer at work since one could just copy to markdown in our chosen IDE, but that doesn't apply commas making it harder to read.  I'm learning that sometimes I'll need to be a strong advocate for what I do, but I'm also realizing that some engineers are discouraging without positive purpose.  Tomorrow is another day!
