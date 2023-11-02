@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <details>
    <summary> <strong> Week 1: </strong> Days 1-7 of 100</summary>
    
-* Day 1: Wrote an OpenAI API connector.
+* Day 1: Aug 15 Wrote an OpenAI API connector.
 * Day 2: Wrote an outline for OpenAI text summarization script.  Added some SQL for writing a table with dummy data.
 * Day 3: I learned to write an AWS Lambda function that checks for S3 objects older than 7 days and e-mails me a list.  I was specifically curious to learn how to use S3 objects with s3.list_objects_v2.
 * Day 4: I learned to deploy Day 3's Lambda function to AWS via CDK (not pushed).  This required guidance of a seasoned engineer who taught me how to structure my applications to use environment variables.
@@ -139,7 +139,9 @@ You can click the Preview link to take a look at your changes.
 * Day 70: 10/23 I needed a password protection script for Windows since my options to do so were grayed out so I wrote one up using a 7zip library.  It's a bit on-the-nose, but it does its job.  I think that'll wrap up week 10!
 
 </details>
-   
+
+<details>
+   <summary><strong> Week 11: </strong> Days 71-77 of 100</summary>
 * Day 71: 10/24 I wrote a quick python script to take a copy/pasted CSV result from Datagrip and converts it to a markdown table.  I was creating this manually at work and decided it was time to automate it.
 * Day 72: 10/25 I used the above script for work and realized that ID numbers were also getting commas so I updated it.  I was challenged on the purpose of this script by an engineer at work since one could just copy to markdown in our chosen IDE, but that doesn't apply commas making it harder to read.  I'm learning that sometimes I'll need to be a strong advocate for what I do.  Tomorrow is another day!
 * Day 73: 10/26 Really challenging day at work with a shift in priorities!  That said, I still found some time to code tonight, but finding an annoying issue with my CSV to Markdown script.  I need to better handle for null values and it seems to intermittently detect when a value is null.  I'm trying to do a string modification on it and I believe at this point that's the wrong path.  I'm sure I'll have it figured out this weekend.
@@ -147,4 +149,8 @@ You can click the Preview link to take a look at your changes.
 * Day 75:  3 quarters done!  Speaking of progress, I created a progress bar GUI to show how much life left in percentage until I'm 76.  Apparently, I have about 46% of life left to live.  Nice!  I also clean up my code a bit from yesterday, I realize that had confused time elapsed with time remaining.  Don't ask me to be your doctor lol!  Now that I'm really feeling like I'm nearing the final stretch of 100 days, I'm wondering what I'll do after 100 days.  Maybe I'll take a week off and go for shorter streaks like 30 days at a time focused on specifics like Javascript, or maybe even Java!
 * Day 76: 10/29 I'm learning a little more about Tkinter today.  Specifically drawing lines so I made vertical lines at the 10 year markers on the life progress bar application.
 * Day 77: 10/30 More Tkinter work today.  I built a birthdate selection window with dropdowns.  I'm struggling to use the output of this window as an input into the next, but I'll figure it out.  Wow!  And that's week 11.  I feel as if I couldn't put as much time into coding this week, but glad I got it done nonetheless!
+
+</details>
+   
 * Day 78: 10/31 Halloween!  Going out tonight so had to do a quick lunchtime commit!  I added a little bit of functionality to my percentage calculator.  It now has a text menu and can calculate percentages two ways.  I also tried to work with Tkinter on a Mac and found that it does not work how it does on PC.  That's concerning.
+* Day 79: 11/1 - I can't believe it's November already!  I started this in August.  Today, I added a third function to my percentage calculator.  It was not necessarily challenging, but it is something that I will use all the time.  Since the start of this challenge image-splitting application is one that I've used everyday!  It's satisfying to build and use your own tools.
