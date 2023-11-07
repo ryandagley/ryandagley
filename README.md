@@ -158,3 +158,4 @@ You can click the Preview link to take a look at your changes.
 * Day 81: 11/3 - Did a quick OOP refactor on my percentage calculator.
 * Day 82: 11/4 - Low on time today so I updated my image-splitter script to simplify output names, then I start moving on to trying to build a metronome.  I'm having difficulty getting python audio to work so will need to come back to that one.
 * Day 83: 11/5 - In the image-splitter script yesterday I ended up pushing a bug.  When more than 1 image was in the input, because the output was not unique, it kept overwriting the files.  I have corrected that issue in today's commit.
+* Day 84: 11/6 - I don't know why I didn't think of this sooner, but I'm writing the output images of my image splitting script to a folder based on the date.  This will save me some manual work when I build my blog posts!  
