@@ -151,11 +151,17 @@ You can click the Preview link to take a look at your changes.
 * Day 77: 10/30 More Tkinter work today.  I built a birthdate selection window with dropdowns.  I'm struggling to use the output of this window as an input into the next, but I'll figure it out.  Wow!  And that's week 11.  I feel as if I couldn't put as much time into coding this week, but glad I got it done nonetheless!
 
 </details>
-   
+
+<details>
+   <summary><strong> Week 12: </strong> Days 78-84 of 100</summary>
 * Day 78: 10/31 Halloween!  Going out tonight so had to do a quick lunchtime commit!  I added a little bit of functionality to my percentage calculator.  It now has a text menu and can calculate percentages two ways.  I also tried to work with Tkinter on a Mac and found that it does not work how it does on PC.  That's concerning.
 * Day 79: 11/1 - I can't believe it's November already!  I started this in August.  Today, I added a third function to my percentage calculator.  It was not necessarily challenging, but it is something that I will use all the time.  Since the start of this challenge image-splitting application is one that I've used everyday!  It's satisfying to build and use your own tools.
 * Day 80: 11/2 - Day 80, 80% done!  In honor of this milestone, I added a Pareto 80/20 calculation to my percentage calculator on my lunch break.  I've been busy these days so doing a little bit of coding at lunch is how it has to go.  I'm probably not gaining much in terms of new coding skills, but it keeps the habit going and my head in the game!  20 days to go!
 * Day 81: 11/3 - Did a quick OOP refactor on my percentage calculator.
 * Day 82: 11/4 - Low on time today so I updated my image-splitter script to simplify output names, then I start moving on to trying to build a metronome.  I'm having difficulty getting python audio to work so will need to come back to that one.
 * Day 83: 11/5 - In the image-splitter script yesterday I ended up pushing a bug.  When more than 1 image was in the input, because the output was not unique, it kept overwriting the files.  I have corrected that issue in today's commit.
-* Day 84: 11/6 - I don't know why I didn't think of this sooner, but I'm writing the output images of my image splitting script to a folder based on the date.  This will save me some manual work when I build my blog posts!  
+* Day 84: 11/6 - I don't know why I didn't think of this sooner, but I'm writing the output images of my image splitting script to a folder based on the date.  This will save me some manual work when I build my blog posts!
+
+</details>
+   
+* Day 85: 11/7 - Another saved step!  I'm using argparse to provide an argument to prefix the filenames of the split image outputs.  This will be a huge help in organizing the images!  I'm down to two weeks left of my 100 days of commits!  
