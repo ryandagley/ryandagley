@@ -164,4 +164,5 @@ You can click the Preview link to take a look at your changes.
 
 </details>
    
-* Day 85: 11/7 - Another saved step!  I'm using argparse to provide an argument to prefix the filenames of the split image outputs.  This will be a huge help in organizing the images!  I'm down to two weeks left of my 100 days of commits!  
+* Day 85: 11/7 - Another saved step!  I'm using argparse to provide an argument to prefix the filenames of the split image outputs.  This will be a huge help in organizing the images!  I'm down to two weeks left of my 100 days of commits!
+* Day 86: 11/8 - And yet another step automated!  Using a library called 'shutil', the processed images get moved to an archive folder.  Adding images to my blog is getting easier and easier!
