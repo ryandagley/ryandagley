@@ -166,3 +166,4 @@ You can click the Preview link to take a look at your changes.
    
 * Day 85: 11/7 - Another saved step!  I'm using argparse to provide an argument to prefix the filenames of the split image outputs.  This will be a huge help in organizing the images!  I'm down to two weeks left of my 100 days of commits!
 * Day 86: 11/8 - And yet another step automated!  Using a library called 'shutil', the processed images get moved to an archive folder.  Adding images to my blog is getting easier and easier!
+* Day 87: 11/9 - Refactored image splitter as OOP.  I forgot to retain the dated folder output functionality, but it's working again.  I can't believe I'm less than two weeks from my goal!
