@@ -163,7 +163,9 @@ You can click the Preview link to take a look at your changes.
 * Day 84: 11/6 - I don't know why I didn't think of this sooner, but I'm writing the output images of my image splitting script to a folder based on the date.  This will save me some manual work when I build my blog posts!
 
 </details>
-   
+
+<details>
+   <summary><strong> Week 13: </strong> Days 85-91 of 100</summary>  
 * Day 85: 11/7 - Another saved step!  I'm using argparse to provide an argument to prefix the filenames of the split image outputs.  This will be a huge help in organizing the images!  I'm down to two weeks left of my 100 days of commits!
 * Day 86: 11/8 - And yet another step automated!  Using a library called 'shutil', the processed images get moved to an archive folder.  Adding images to my blog is getting easier and easier!
 * Day 87: 11/9 - Refactored image splitter as OOP.  I forgot to retain the dated folder output functionality, but it's working again.  I can't believe I'm less than two weeks from my goal!
@@ -171,3 +173,7 @@ You can click the Preview link to take a look at your changes.
 * Day 89: 11/11 - I found the prompting annoying so now I've changed it to where there's only one prompt at the end of processing everying.
 * Day 90: 11/12 - 90% to goal!  I can't believe it!  This challenge will be over in no time!  Today, I needed to correct a bug in the output directory for my image splitter.  Once I refactored it as OOP, it seems I missed something and the script was creating two output directorys because I was calling it both "output_folder" and "output_directory".  With a tired mind, I could tell the difference between the two and kept making the issue worse.  Admittedly, I'm excited to get this challenge complete.  Work is bound to get busy during the holiday season so having one less stressor to my day will help.  I am considering doing further challenges in the near future though.  Mainly thinking of "30 days of Mycologeek" so I can put some dedicated time to one of my side projects.
 * Day 91: 11/13 - And that's a wrap for Week 13!  In my image splitter script, I noticed that I was defining the output folder in both the constructor and in __main__.  I chose to do it in the constructor.  I can't believe how much I've used this code and I'm really glad I chose to build this during the 100 day challenge.  I've used this script every single day.
+
+</details>
+
+   * Day 92: 11/14 - I just wrote a calculator that prompts me for "days from now" so that it can tell me what that date with be an some other details.  I did that because I realized that the 100 days of this challenge actually coincides with another important day for me!  It's a really great coincidence and so it inspired this idea.  I wrote the script in Javascript because I figured it would be better to use as a little webpage instead of python and it would be an appropriate challenge. After today, only 1 week to go!
