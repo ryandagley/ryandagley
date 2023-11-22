@@ -176,6 +176,8 @@ You can click the Preview link to take a look at your changes.
 
 </details>
 
+<details>
+   <summary> <strong> Week14: </strong> Days 92-98 of 100</summary>
 * Day 92: 11/14 - I just wrote a calculator that prompts me for "days from now" so that it can tell me what that date with be an some other details.  I did that because I realized that the 100 days of this challenge actually coincides with another important day for me!  It's a really great coincidence and so it inspired this idea.  I wrote the script in Javascript because I figured it would be better to use as a little webpage instead of python and it would be an appropriate challenge. After today, only 1 week to go!
 * Day 93: 11/15 - In the days from now script, I added a calculation for essentially "unplanned hours" by calculating non-work and non-sleep time.  It turns out, I have a ton of time to work on and accomplish the things I want in life!  I think after this 100 days challenge is done, I'll use this app to plan out my next consistency challenges.
 * Day 94: 11/16 - I just wrote up a quick python script for calculating savings toward a goal.  It's very basic, but the idea was stuck in my mind while in traffic today.  Today at work, I learned a bit about making tradeoffs between getting what I need to get done and what my stakeholders see as a priority.  
@@ -183,3 +185,7 @@ You can click the Preview link to take a look at your changes.
 * Day 96: 11/18 - I've converted the save up calculator I made two days ago from python to Javascript so that I can load it up in a browser and have fun with it.  If I do another 100 days of code, maybe I'll do 100 days of JS.
 * Day 97: 11/19 - With only a fews day to go, I find myself powering through a migraine to build today's commit.  Perhaps I should make a migraine tracker as a next project!  Instead today I added a baseline balance for the savings calculator.  I may add more later if feeling better.  3 days to go!
 * Day 98: 11/20 - Quick lunchtime commit today as I'm focusing on delivering a lot at work this week.  Today's change was a simple calculation to break the monthly savings down into how much savings per day it would take to reach the savings goal.  This helps to keep me from "nickel and diming" my savings away.  This was my last full week of the challenge!  14 weeks complete.  I can't celebrate too early, but this progress feels great.
+
+</details>
+
+* Day 99: 11/21 - Tomorrow is the finish line!  Today, I in my savings calculator, I added a coffee calculation to determine how many $5 coffees to save in order to save for a specific goal.  Today I learned a little bit about formatting in JavaScript such as printing on multiple lines, but also writing multiple lines in the editor so it wouldn't bleed off the right side.  
