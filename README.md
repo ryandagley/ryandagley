@@ -188,4 +188,29 @@ You can click the Preview link to take a look at your changes.
 
 </details>
 
-* Day 99: 11/21 - Tomorrow is the finish line!  Today, I in my savings calculator, I added a coffee calculation to determine how many $5 coffees to save in order to save for a specific goal.  Today I learned a little bit about formatting in JavaScript such as printing on multiple lines, but also writing multiple lines in the editor so it wouldn't bleed off the right side.  
+<details>
+   <summary> <strong> Wrap Up: </strong> Lessons Learned</summary>
+* Day 99: 11/21 - Tomorrow is the finish line!  Today, I in my savings calculator, I added a coffee calculation to determine how many $5 coffees to save in order to save for a specific goal.  Today I learned a little bit about formatting in JavaScript such as printing on multiple lines, but also writing multiple lines in the editor so it wouldn't bleed off the right side.
+* Day 100: 11/22 - I did it!  Committing code for 100 days in a row!  My last commit was a Food Delivery calculation on the savings calculator.
+## Reflection on these 100 days:
+### Key Takeaways:
+* With consistency, I can accomplish any goal!
+* Work toward your goals especially when they get boring.
+* Don't take on too much!  About half-way through, I set a daily blogging goal and that's just way too much too soon.  My quality suffered for it.
+* Find mentors or people to talk through challenges with
+### What I've Built:
+  * My Software Engineering Portfolio - https://www.softwareengineerportfolio.com/ A NextJS portfolio for my work.  Hosted on AWS using Amplify.
+  * A.I. Nihonga - https://www.ainihonga.com/ - A NextJS website for AI Images inspired by Japanese art.  Hosted on AWS using Amplify.
+  * CheckOutRyan.com - https://www.checkoutryan.com/ - My personal, daily blog hosted on Amazon Lightsail.  AI generated images leveraging scripts I created in the 100 days.
+  * Various calculators for saving, life-expectancy countdown, free time.
+  * A markdown table creator for formatting Datagrip output (something I use at work now)
+  * A guitar neck training app for learning the notes at each fret.
+### Skills I've Improved:   
+ * Python, JavaScript, HTML/CSS
+ * AI content generation: images, text using OpenAI, Midjourney, StableDiffusion
+ * Overall AWS knowledge
+### What's Next?
+* I'll definitely do another challenge in the New Year, but I'll want to make them shorter.  I'm thinking 30 days of Mycologeek, 30 days of JavaScript, and so on.  Now that I have a foundation for many projects and a porfolio to showcase them, it makes sense to set smaller, but more focused goals.
+* Day 101 - Tomorrow is Thanksgiving.  I'm very much looking forward to the day off!
+
+</details>
