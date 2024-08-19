@@ -2,7 +2,7 @@
 - 👀 I’m interested in building cool solutions on AWS and working with AI.
 - I write a ton of SQL at work and I'm looking to expand my knowledge.  
 - Welcome to my codes.
-- Challenging myself to Commit 100 days in a row (some code, some other exploration).
+- Challenging myself to Commit 100 days in a row (some code, some other exploration).  COMPLETED for 2023.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ryandagley)](https://git.io/streak-stats)
 
 Things I'm studying this week:
