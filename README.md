@@ -2,12 +2,14 @@
 - 👀 I’m interested in building cool solutions on AWS and working with AI.
 - I write a ton of SQL at work and I'm looking to expand my knowledge.  
 - Welcome to my codes.
-- Challenging myself to Commit 100 days in a row (some code, some other exploration).  COMPLETED for 2023.
+- Challenging myself to improve my online presence for 100 days in a row!
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ryandagley)](https://git.io/streak-stats)
 
-Things I'm studying this week:
-1. Tkinter
-2. Wordpress
+My current focuses:
+1. AWS Certified Cloud Practitioner's exam
+2. JLPT N4
+3. IaC via CDK
+4. JavaScript
    
 <!---
 ryandagley/ryandagley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
