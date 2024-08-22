@@ -13,6 +13,7 @@ Things I'm studying this week:
 ryandagley/ryandagley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<details><summary> 2023 - 100 days of Code</summary>
 <details>
    <summary> <strong> Week 1: </strong> Days 1-7 of 100</summary>
    
@@ -213,4 +214,5 @@ You can click the Preview link to take a look at your changes.
 * I'll definitely do another challenge in the New Year, but I'll want to make them shorter.  I'm thinking 30 days of Mycologeek, 30 days of JavaScript, and so on.  Now that I have a foundation for many projects and a porfolio to showcase them, it makes sense to set smaller, but more focused goals.
 * Day 101 - Tomorrow is Thanksgiving.  I'm very much looking forward to the day off!
 
+</details>
 </details>
