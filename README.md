@@ -1,15 +1,15 @@
 - 👋 Hi, I’m @ryandagley
 - 👀 I’m interested in building cool solutions on AWS and working with AI.
-- I write a ton of SQL at work and I'm looking to expand my knowledge.  
+- I'm an SRE who writes a ton of SQL at work and I'm looking to expand my skillset.  
 - Welcome to my codes.
 - Challenging myself to improve my online presence for 100 days in a row!
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ryandagley)](https://git.io/streak-stats)
 
 My current focuses:
-1. AWS Certified Cloud Practitioner's exam
-2. JLPT N4
-3. IaC via CDK
-4. JavaScript
+1. AWS Certified Cloud Practitioner's exam - testing in Q4 2024
+2. JLPT N4 - testing in December 2024
+3. IaC via CDK - building reusable infra!
+4. JavaScript - building fun websites!
    
 <!---
 ryandagley/ryandagley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
