@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ryandagley
 - 👀 I’m interested in building cool solutions on AWS and working with AI.
-- I'm an SRE who writes a ton of SQL at work and I'm looking to expand my skillset.  
+- I'm an SRE who writes a ton of SQL at work and I'm looking to expand my skillset.  I currently work at one of the tech giants, but I also enjoy building creative and fun side-projects.
 - Welcome to my codes.
-- Challenging myself to improve my online presence for 100 days in a row!
+- Currently challenging myself to improve my online presence for 100 days in 2024!  I'm building up my portfolio, projects, and skills.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ryandagley)](https://git.io/streak-stats)
 
 My current focuses:
